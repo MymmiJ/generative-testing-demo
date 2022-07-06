@@ -15,5 +15,8 @@
     "jest": "^28.1.2",
     "ts-jest": "^28.0.5",
     "ts-node": "^10.8.2"
+  },
+  "dependencies": {
+    "@stdlib/math-base-assert-is-prime": "^0.0.7"
   }
 }
