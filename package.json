@@ -1,0 +1,11 @@
+{
+  "name": "generative-testing",
+  "version": "1.0.0",
+  "description": "Generative testing examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
